@@ -1,0 +1,5 @@
+Content
+content A
+content B
+content C
+(commit new file= save)
