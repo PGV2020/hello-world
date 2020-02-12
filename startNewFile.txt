@@ -2,4 +2,6 @@ Content
 content A
 content B
 content C
+content D
 (commit new file= save)
+(new commit, with a .txt commit name ("newCommit")for the commit
